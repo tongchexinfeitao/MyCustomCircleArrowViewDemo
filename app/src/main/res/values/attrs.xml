@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="MyCustomCircleArrowView">
+        <attr name="circlr_bound_width" format="dimension"></attr>
+        <attr name="circlr_bound_color" format="color"></attr>
+    </declare-styleable>
+</resources>
